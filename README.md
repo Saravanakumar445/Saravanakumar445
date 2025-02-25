@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saravanakumar
-- 👀 I’m interested in Web Developing 
+- 👀 Data Analyst
 - 🌱 I’m currently learning in Spotknock 
 - 📫 How to reach me
      saravanakumarsk445@gmail.com
